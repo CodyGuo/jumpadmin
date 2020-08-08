@@ -1,0 +1,12 @@
+Database:
+  Debug: False
+  DBType: mysql
+  Username: root
+  Password: 123456
+  Host: 127.0.0.1:3306
+  Protocol: tcp
+  DBName: jumpserver
+  Charset: utf8
+  ParseTime: True
+  MaxIdleConns: 10
+  MaxOpenConns: 30
