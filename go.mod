@@ -1,4 +1,4 @@
-module jumpadmin
+module github.com/CodyGuo/jumpadmin
 
 go 1.14
 

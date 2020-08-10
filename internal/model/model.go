@@ -2,9 +2,9 @@ package model
 
 import (
 	"fmt"
-	"jumpadmin/global"
-	"jumpadmin/pkg/setting"
 
+	"github.com/CodyGuo/jumpadmin/global"
+	"github.com/CodyGuo/jumpadmin/pkg/setting"
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/mysql"
 )

@@ -2,10 +2,10 @@ package cmd
 
 import (
 	"fmt"
-	"jumpadmin/internal/service"
 	"strings"
 
 	"github.com/CodyGuo/glog"
+	"github.com/CodyGuo/jumpadmin/internal/service"
 	"github.com/spf13/cobra"
 )
 

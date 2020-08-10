@@ -1,6 +1,6 @@
 package service
 
-import "jumpadmin/internal/model"
+import "github.com/CodyGuo/jumpadmin/internal/model"
 
 type CreateOrganizationRequest struct {
 	Name string

@@ -2,11 +2,11 @@ package cmd
 
 import (
 	"context"
-	"jumpadmin/global"
-	"jumpadmin/internal/model"
-	"jumpadmin/pkg/setting"
 
 	"github.com/CodyGuo/glog"
+	"github.com/CodyGuo/jumpadmin/global"
+	"github.com/CodyGuo/jumpadmin/internal/model"
+	"github.com/CodyGuo/jumpadmin/pkg/setting"
 	"github.com/spf13/cobra"
 )
 

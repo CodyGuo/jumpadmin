@@ -2,9 +2,9 @@ package dao
 
 import (
 	"encoding/hex"
-	"jumpadmin/internal/model"
 	"time"
 
+	"github.com/CodyGuo/jumpadmin/internal/model"
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/google/uuid"
 	"github.com/jinzhu/gorm"

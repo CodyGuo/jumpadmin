@@ -2,8 +2,9 @@ package service
 
 import (
 	"context"
-	"jumpadmin/global"
-	"jumpadmin/internal/dao"
+
+	"github.com/CodyGuo/jumpadmin/global"
+	"github.com/CodyGuo/jumpadmin/internal/dao"
 )
 
 type Service struct {

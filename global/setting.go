@@ -1,7 +1,7 @@
 package global
 
 import (
-	"jumpadmin/pkg/setting"
+	"github.com/CodyGuo/jumpadmin/pkg/setting"
 )
 
 var (

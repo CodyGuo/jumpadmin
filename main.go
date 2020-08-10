@@ -1,7 +1,7 @@
 package main
 
 import (
-	"jumpadmin/cmd"
+	"github.com/CodyGuo/jumpadmin/cmd"
 
 	"github.com/CodyGuo/glog"
 )
